@@ -23,6 +23,8 @@ timelapse.bat [diretorio_origem] [extensão]
 
 ### Exemplos de uso
 
+Abra um terminal de comando (prompt do MS-DOS, ou Windows Terminal) e digite os comandos:
+
 ```console
 c:\bramon\tools\timelapse.bat c:\bramon\!data\TLP1\2021\202103\20210321\
 ```
