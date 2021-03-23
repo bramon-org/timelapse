@@ -8,7 +8,7 @@ Copiar o arquivo timelapse.bat para algum diretório local, ex.: c:\bramon\tools
 
 Caso o _ffmpeg_ não esteja em seu caminho padrão (c:\bramon\tools), editar a variável *ffmpeg_path*.
 
-Configurar o UFOCapture para ativar a captura com intervalos:
+Configurar o UFOCapture para ativar a captura com intervalos, selecionando *Time interval* na sessão *Optional triggers*, e inserir o intervalo das capturas.
 
 ![UFOCapture v2](ufocapture-settings-1.png)
 
